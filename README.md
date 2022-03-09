@@ -1,4 +1,4 @@
-#Flight Search App
+# Flight Search App
 
 
 Flight Search Engine implements Flight search functionality. User can input and search for the flights. Then user will be able to see the search results, user can refine the search using a slider for prices.
