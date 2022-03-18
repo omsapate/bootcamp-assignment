@@ -1,10 +1,10 @@
 import React from 'react'
 
-import Item from "./Lists"
+import Item from "./ListFlight"
 
 
 function PageList({ items }) {
-    let length = items.length;
+    let length = items?.length;
     if(length > 0) {
       return (
         <ul className="ItemPage-items">
